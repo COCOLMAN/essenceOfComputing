@@ -6,7 +6,7 @@
 """
 
 
-def solution(numbers: list[int]):
+def solution(numbers: list[int]) -> tuple[int, int]:
     start_idx = 0
     cursor = start_idx
 
